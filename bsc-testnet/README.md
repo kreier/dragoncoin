@@ -50,7 +50,7 @@ Hopefully no errors. Then click on the next button:
 
 Should work
 
-## Video by [Full Value Dan](Full Value Dan) 21:53
+## Video by [Full Value Dan](https://youtu.be/Q_wK6N9GtS8) 21:53
 
 1. 00:00 How to make a cryptocurrency
 2. 01:18 How to get BNB for Binance Smart Chain
@@ -109,3 +109,9 @@ contract Token {
 ```
 
 What about DEX directly in the Trust Wallet?
+
+## Example guides in the internet
+
+- [Quicknode.com BEP20 Token](https://www.quicknode.com/guides/solidity/how-to-create-a-bep20-token)
+- [Binance Academy](https://academy.binance.com/en/articles/how-to-create-your-own-cryptocurrency) 2021-10-29
+- [Network Chunk on YouTube: Solana Token](https://youtu.be/befUVytFC80)
